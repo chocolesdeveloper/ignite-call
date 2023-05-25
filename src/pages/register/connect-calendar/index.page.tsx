@@ -8,11 +8,11 @@ import { AuthError, ConnectBox, ConnectItem } from "./styles"
 import { useRouter } from "next/router"
 
 export default function ConnectCalendar() {
-  // async function handleRegister() {}
   const router = useRouter()
   const session = useSession()
 
   console.log(session)
+
   const hasAuthError = !!router.query.error
   const isSignedIn = session.status === "authenticated"
 
