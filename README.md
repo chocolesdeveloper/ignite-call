@@ -2,7 +2,8 @@
 
 Ignite call é uma ferramenta que irá auxiliar você com suas reuniões, integramos seu calendario do google junto ao nosso aplicativo, para que pessoas que queiram marcar reuniões com você, consiga ver seus horarios e dias disponiveis, nosso aplicativo irá trazer uma grande facilidade em marcar suas reuniões!
 
-![Logo do markdown](https://github.com/chocolesdeveloper/imagens/blob/main/capa-ignite-call.png)
+![capa-ignite-call](https://github.com/chocolesdeveloper/ignite-call/assets/105561544/586a66df-5911-4a2f-93db-77518ef25bf3)
+
 
 ## Demonstração
 
