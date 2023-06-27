@@ -9,31 +9,43 @@ Ignite call é uma ferramenta que irá auxiliar você com suas reuniões, integr
 
 <p align="center">
   <p>Aqui começamos o processo de criar seu username:</p>
-  <img src="https://github.com/chocolesdeveloper/imagens/blob/main/home-ignite-call.png" alt="Imagem" style="margin-top: 20px;">
+
+  ![home-ignite-call](https://github.com/chocolesdeveloper/ignite-call/assets/105561544/2ee1f094-e18d-472d-a4e6-eca89eeab723)
+
 </p>
 <p align="center">
   <p>Aqui queremos saber seu nome:</p>
-  <img src="https://github.com/chocolesdeveloper/imagens/blob/main/register-ignite-call.png" alt="Imagem" style="margin-top: 20px;">
+
+  ![register-ignite-call](https://github.com/chocolesdeveloper/ignite-call/assets/105561544/199bce97-e14e-4108-bcc0-bb51c41c72bd)
+
 </p>
 <p align="center">
   <p>Pediremos acesso a sua conta google, mas somente para saber sua agenda:</p>
-  <img src="https://github.com/chocolesdeveloper/imagens/blob/main/connect-calendar-ignite-call.png" alt="Imagem" style="margin-top: 20px;">
+
+  ![connect-calendar-ignite-call](https://github.com/chocolesdeveloper/ignite-call/assets/105561544/5bbadd0d-1aa8-40fe-964e-ea5ce4d72afb)
+
 </p>
-<p align="center">
-  <p>Um breve resumo sobre ti:</p>
-  <img src="https://github.com/chocolesdeveloper/imagens/blob/main/about-ignite-call.png" alt="Imagem" style="margin-top: 20px;">
-</p>
+
 <p align="center">
   <p>Marque os dias e os horários que fique melhor para você:</p>
-  <img src="https://github.com/chocolesdeveloper/imagens/blob/main/time-intervals-ignite-call.png" alt="Imagem" style="margin-top: 20px;">
+
+
+  ![time-intervals-ignite-call](https://github.com/chocolesdeveloper/ignite-call/assets/105561544/b70fbc78-1b0f-437d-89cc-d3fbf5524d07)
+
 </p>
 <p align="center">
   <p>Um breve resumo sobre ti:</p>
-  <img src="https://github.com/chocolesdeveloper/imagens/blob/main/about-ignite-call.png" alt="Imagem" style="margin-top: 20px;">
+
+
+  ![about-ignite-call](https://github.com/chocolesdeveloper/ignite-call/assets/105561544/8cc639bd-750d-4ac4-ab30-568700947c9b)
+
 </p>
 <p align="center">
   <p>Está pronto para deixar seu link para que pessoas possam marcar reuniões com você:</p>
-  <img src="https://github.com/chocolesdeveloper/imagens/blob/main/schedule-ignite-call.png" alt="Imagem" style="margin-top: 20px;">
+
+![schedule-ignite-call](https://github.com/chocolesdeveloper/ignite-call/assets/105561544/3e0eebc0-8a96-47a1-b295-abacc3050b9a)
+
+  
 </p>
 
 ## Tecnologias:
